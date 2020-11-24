@@ -23,4 +23,7 @@ export const templates = {
     <b>${x}</b>
     <i>y</i>
     <b>${x}</b>`,
+  '0s03c68d79ad36e8d4': `described 0`,
+  '0s03c68e79ad36ea87': `described 1`,
+  '0s03c68f79ad36ec3a': `described 2`,
 };

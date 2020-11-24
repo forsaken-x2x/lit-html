@@ -23,4 +23,7 @@ export const templates = {
   '0s00ad08ebae1e0f74': (name: any) => `Hello ${name}!`,
   '0h3c44aff2d5f5ef6b': html`Hello <b>World</b>!`,
   '0h82ccc38d4d46eaa9': (name: any) => html`Hello <b>${name}</b>!`,
+  '0s03c68d79ad36e8d4': `described 0`,
+  '0s03c68e79ad36ea87': `described 1`,
+  '0s03c68f79ad36ec3a': `described 2`,
 };
